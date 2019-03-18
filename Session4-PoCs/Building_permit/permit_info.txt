@@ -1,0 +1,47 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 198900 entries, 1380611233945 to 1489796283803
+Data columns (total 42 columns):
+Permit Number                             198900 non-null object
+Permit Type                               198900 non-null int64
+Permit Type Definition                    198900 non-null object
+Permit Creation Date                      198900 non-null object
+Block                                     198900 non-null object
+Lot                                       198900 non-null object
+Street Number                             198900 non-null int64
+Street Number Suffix                      2216 non-null object
+Street Name                               198900 non-null object
+Street Suffix                             196132 non-null object
+Unit                                      29479 non-null float64
+Unit Suffix                               1961 non-null object
+Description                               198610 non-null object
+Current Status                            198900 non-null object
+Current Status Date                       198900 non-null object
+Filed Date                                198900 non-null object
+Issued Date                               183960 non-null object
+Completed Date                            97191 non-null object
+First Construction Document Date          183954 non-null object
+Structural Notification                   6922 non-null object
+Number of Existing Stories                156116 non-null float64
+Number of Proposed Stories                156032 non-null float64
+Voluntary Soft-Story Retrofit             35 non-null object
+Fire Only Permit                          18827 non-null object
+Permit Expiration Date                    147020 non-null object
+Estimated Cost                            160834 non-null float64
+Revised Cost                              192834 non-null float64
+Existing Use                              157786 non-null object
+Existing Units                            147362 non-null float64
+Proposed Use                              156461 non-null object
+Proposed Units                            147989 non-null float64
+Plansets                                  161591 non-null float64
+TIDF Compliance                           2 non-null object
+Existing Construction Type                155534 non-null float64
+Existing Construction Type Description    155534 non-null object
+Proposed Construction Type                155738 non-null float64
+Proposed Construction Type Description    155738 non-null object
+Site Permit                               5359 non-null object
+Supervisor District                       197183 non-null float64
+Neighborhoods - Analysis Boundaries       197175 non-null object
+Zipcode                                   197184 non-null float64
+Location                                  197200 non-null object
+dtypes: float64(12), int64(2), object(28)
+memory usage: 65.3+ MB
